@@ -1,0 +1,135 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  padding: 40px 80px 0 80px;
+  background-color: lavender;
+}
+.container {
+  height: 810px;
+  border: 2px;
+  background-color: whitesmoke;
+  margin: 0px 0 0 140px;
+  padding-left: 85px;
+}
+header {
+  border: 2px;
+  height: 80px;
+  background-color: whitesmoke;
+  margin: 0px 0 0 140px;
+}
+nav * {
+  float: left;
+  width: 15%;
+  color: white;
+  display: block;
+  color: rgb(8, 5, 85);
+}
+.link {
+  border: 1px;
+  height: 50px;
+  width: 57%;
+  float: left;
+  margin-left: 120px;
+}
+.first {
+  border: 1px;
+  height: 50px;
+  width: 20%;
+  float: left;
+}
+
+.btn {
+  padding: 10px;
+  float: right;
+  width: 70px;
+  color: white;
+  background-color: rgb(14, 3, 44);
+}
+aside {
+  border: 2px;
+  width: 200px;
+  height: 600px;
+  position: absolute;
+  padding: 0px 10px 0 10px;
+  background-color: white;
+}
+.image1 {
+  height: 140px;
+  width: 180px;
+}
+.place {
+  width: 180px;
+  height: 25px;
+}
+.holder {
+  width: 180px;
+  height: 25px;
+  margin-top: 8px;
+  background-color: rgb(14, 3, 44);
+  color: white;
+}
+.but {
+  height: 25px;
+  background-color: rgb(14, 3, 44);
+  color: white;
+  margin-left: -4px;
+}
+.top {
+  height: 40px;
+  border: 1px solid;
+}
+.icon {
+  border: 1px solid;
+  float: left;
+  width: 50%;
+  height: 35px;
+  display: block;
+}
+h1 {
+  font-size: 30px;
+}
+.group {
+  border: 1px;
+  height: 360px;
+}
+.more {
+  border: 1px;
+  float: left;
+  width: 30%;
+  height: 300px;
+}
+.photo1 {
+  border: 1px;
+  float: right;
+  width: 45%;
+  height: 250px;
+}
+.image {
+  height: 340px;
+  width: 430px;
+}
+.perform {
+  border: 1px solid;
+  height: 280px;
+}
+.test {
+  border: 1px;
+  float: left;
+  width: 25%;
+  height: 250px;
+  padding: 0px 6px 0 5px;
+}
+.collect {
+  width: 50%;
+  height: 170px;
+  border: 1px;
+}
+input {
+  width: 90%;
+  background-color: rgb(175, 185, 243);
+}
+a {
+  text-decoration: none;
+  color: rgb(8, 5, 85);
+}
